@@ -1,0 +1,11 @@
+{
+	"id": "obsidian-cat-pet",
+	"name": "Obsidian 宠物",
+	"version": "3.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "在 Obsidian 中养一只可爱的猫咪，支持 AI 对话陪伴",
+	"author": "Your Name",
+	"authorUrl": "",
+	"fundingUrl": "",
+	"isDesktopOnly": true
+}

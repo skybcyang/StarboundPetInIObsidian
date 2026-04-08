@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+
+# Obsidian test vault
+.obsidian/
+
+# Build outputs
+dist/
+main.js
+styles.css
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Test data
+workspace/pets/
