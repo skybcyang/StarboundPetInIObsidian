@@ -27,9 +27,9 @@ jobs:
     - name: Create release package
       run: |
         mkdir -p release/obsidian-cat-pet
-        cp dist/main.js release/obsidian-cat-pet/
-        cp dist/manifest.json release/obsidian-cat-pet/
-        cp dist/styles.css release/obsidian-cat-pet/
+        cp main.js release/obsidian-cat-pet/
+        cp manifest.json release/obsidian-cat-pet/
+        cp styles.css release/obsidian-cat-pet/
         cp -r assets release/obsidian-cat-pet/
         cd release && zip -r obsidian-cat-pet.zip obsidian-cat-pet/
     
